@@ -1,9 +1,10 @@
 # 🛒 SmartShop
 
-SmartShop is a **Java console application** developed to practice and demonstrate **Object-Oriented Programming (OOP)** concepts, data modeling, and basic business rules for a purchase system.
-The project simulates a simple shopping flow where customers can add products to a cart, manage quantities, validate balance and stock, and complete a checkout.
+SmartShop is a Java console application developed to demonstrate Object-Oriented Programming (OOP) concepts, domain modeling, and basic business rules for a purchase system.
 
-This project was created as part of a course challenge and is designed to be **portfolio-ready**, emphasizing clean architecture and good design decisions.
+The application simulates a simple shopping flow where customers can add products to a cart, manage quantities, validate balance and stock, and complete a checkout process.
+
+This project was created as part of a course challenge and is designed to be portfolio-ready, emphasizing clean architecture, good modeling decisions, and clear responsibility separation.
 
 ---
 
